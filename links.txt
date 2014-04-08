@@ -1,2 +1,2 @@
-
 http://steve-yegge.blogspot.se/2008/09/programmings-dirtiest-little-secret.html - learn to tuch type
+https://help.github.com/articles/using-jekyll-with-pages - Jekyll and github
